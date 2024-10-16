@@ -55,7 +55,7 @@ This project aims to analyze a public dataset related to women in tech, explorin
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/Women-in-Tech-Analysis.git
+git clone https://github.com/anushkacseatmnc/Women-in-Tech-Analysis.git
 cd Women-in-Tech-Analysis
 ```
 
@@ -90,7 +90,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## **Contact**
-For any questions or feedback, feel free to contact me via [your_email@example.com] or open an issue in this repository.
+For any questions or feedback, feel free to contact me via [anushkachaudhary19128@gmail.com] or open an issue in this repository.
 
 ---
 
