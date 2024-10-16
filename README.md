@@ -72,18 +72,6 @@ jupyter notebook
 
 ---
 
-## **Repository Structure**
-
-```
-|-- women_in_tech_analysis.ipynb  # Jupyter Notebook with full analysis
-|-- README.md                     # Project documentation
-|-- LICENSE                       # License file (MIT License)
-|-- data/                         # Dataset folder (optional)
-    |-- women_in_tech_survey.csv
-```
-
----
-
 ## **License**
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project, but please give appropriate credit to the original author.
 
