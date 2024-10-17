@@ -36,21 +36,20 @@ This project aims to analyze a public dataset related to women in tech, explorin
 
 ## **Dataset ---- **https://www.kaggle.com/code/nulldata/hacker-women-in-tech-hackerrank-analysis/input
 - **Source**: 
-- The dataset contains information about gender, job roles, salaries, and job satisfaction for professionals working in the tech industry.
-
+- The dataset contains information about men and women in tech, including their degree focus, job roles, and coding experience of males and females.
 ---
 
-## **Key Insights**
-- **Salary Distribution**: Men tend to have higher median salaries compared to women in the same roles, highlighting a gender pay gap.
-- **Job Roles**: Women are more frequently represented in roles such as Software Developer and Data Scientist.
-- **Job Satisfaction**: Women report slightly lower levels of job satisfaction compared to men in the tech field.
+##  Key Insights
+- # Degree Focus: Men and women in tech have different degree focuses, with men more likely to have a degree in Computer Science and women more likely to have a degree in Information Technology.
+- # Job Roles: Men and women in tech have different job roles, with men more likely to be in senior roles and women more likely to be in junior roles.
+- # Coding Experience: Men and women in tech have different coding experiences, with men more likely to have started coding at a younger age.
 
 ---
 
 ## **Recommendations**
-1. **Salary Transparency**: Encourage companies to adopt transparent pay policies and regular salary audits to ensure equal pay for equal work.
-2. **Mentorship Programs**: Implement mentorship and leadership programs tailored for women to foster professional growth and better representation in senior roles.
-3. **Inclusive Work Culture**: Provide flexible work policies and address cultural challenges to improve job satisfaction for women in tech.
+1.   Encourage more women to pursue degrees in Computer Science and related fields.
+2. **Mentorship Programs**: Implement mentorship and leadership programs tailored for womens.
+3.  Offer coding training and mentorship programs to help women gain more coding experience.
 
 ---
 
