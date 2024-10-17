@@ -82,4 +82,3 @@ For any questions or feedback, feel free to contact me via [anushkachaudhary1912
 
 ---
 
-This template provides a clear structure for your GitHub repository, outlining the project details, how to run it, and relevant sections for easy navigation. Adjust the links, filenames, and personal details as per your project setup.
