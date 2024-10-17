@@ -40,9 +40,12 @@ This project aims to analyze a public dataset related to women in tech, explorin
 ---
 
 ##  Key Insights
-- # Degree Focus: Men and women in tech have different degree focuses, with men more likely to have a degree in Computer Science and women more likely to have a degree in Information Technology.
-- # Job Roles: Men and women in tech have different job roles, with men more likely to be in senior roles and women more likely to be in junior roles.
-- # Coding Experience: Men and women in tech have different coding experiences, with men more likely to have started coding at a younger age.
+- # Degree Focus
+- Men and women in tech have different degree focuses, with men more likely to have a degree in Computer Science and women more likely to have a degree in Information Technology.
+- # Job Roles
+-  Men and women in tech have different job roles, with men more likely to be in senior roles and women more likely to be in junior roles.
+- # Coding Experience
+-  Men and women in tech have different coding experiences, with men more likely to have started coding at a younger age.
 
 ---
 
