@@ -82,3 +82,5 @@ For any questions or feedback, feel free to contact me via [anushkachaudhary1912
 
 ---
 
+
+![Women-in-tech](https://github.com/user-attachments/assets/d1876fba-12d8-47d0-9698-f0f100206ae4)
