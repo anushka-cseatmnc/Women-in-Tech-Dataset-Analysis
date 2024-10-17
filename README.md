@@ -85,5 +85,5 @@ For any questions or feedback, feel free to contact me via [anushkachaudhary1912
 
 ---
 
+![63df5551c6567a0fd1418504_DivInc-Focus-Area-Women-in-Tech](https://github.com/user-attachments/assets/57bb1d0a-2b62-4a55-bdfc-01c59abada60)
 
-![Women-in-tech](https://github.com/user-attachments/assets/d1876fba-12d8-47d0-9698-f0f100206ae4)
