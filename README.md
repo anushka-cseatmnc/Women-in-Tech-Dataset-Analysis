@@ -22,7 +22,7 @@
 ---
 
 ## Project Overview
-This project aims to analyze a public dataset related to women in tech, exploring trends, gender disparities, and challenges faced by women in the tech industry. Through data analysis and visualizations, the project highlights areas such as salary gaps, job satisfaction, and job role distribution, and offers actionable recommendations to promote inclusivity in the workplace.
+This project aims to analyze a public dataset related to women in tech, exploring trends, gender disparities, and challenges faced by women in the tech industry. Through data analysis and visualizations, the project highlights areas such as and offers actionable recommendations to promote inclusivity in the workplace.
 
 ---
 
