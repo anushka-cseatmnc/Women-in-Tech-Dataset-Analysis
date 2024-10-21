@@ -35,7 +35,14 @@ This project aims to analyze a public dataset related to women in tech, explorin
 ---
 
 ## **Dataset ---- **https://www.kaggle.com/code/nulldata/hacker-women-in-tech-hackerrank-analysis/input
-- **Source**: 
+- **Source**:
+- About the dataset and Survey
+A total of 25,090 professional and student developers completed our 10-minute online survey.
+
+The survey was live from October 16 through November 1, 2017.
+
+The survey was hosted by SurveyMonkey and we recruited respondents via email from our community of over 3.4 million members and through social media sites.
+
 - The dataset contains information about men and women in tech, including their degree focus, job roles, and coding experience of males and females.
 ---
 
