@@ -2,7 +2,7 @@
 
 # Women in Tech Dataset Analysis
 
-# Analyzing Gender Disparities and Trends in the Tech Industry to Promote Inclusivity
+Analyzing Gender Disparities and Trends in the Tech Industry to Promote Inclusivity
 
 ![Women-in-tech](https://github.com/user-attachments/assets/e87e890a-67f2-43f8-a3ca-aef01f50fa69)
 
